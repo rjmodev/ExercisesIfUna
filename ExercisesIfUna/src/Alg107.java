@@ -9,7 +9,7 @@ public class Alg107 {
         String nameFull = in.nextLine();
 
         String[] partsName = nameFull.trim().split(" ");
-        if (partsName.length > 0 && partsName[0].equalsIgnoreCase("JOSE")) {
+        if (partsName.length > 0 && partsName[0].equals("JOSE")) {
             System.out.printf ("%nNome com o primeiro nome JOSE: %s", nameFull);
         }
 
