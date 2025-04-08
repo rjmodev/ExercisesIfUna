@@ -1,0 +1,2 @@
+public class Alg141 {
+}
