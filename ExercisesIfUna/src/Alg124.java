@@ -1,3 +1,5 @@
+//ler três números, os possíveis lados de um triângulo, e imprimir a classificação segundo
+//ângulos
 import java.util.Scanner;
 
 public class Alg124 {
